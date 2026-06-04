@@ -309,4 +309,4 @@ a proper HTML report export
 
 ## Stack
 
-Python · SQLite · scikit-learn · Groq API (LLaMA 3.1) · Rich · zsh preexec hooks
+Python, SQLite, scikit-learn, Groq API (LLaMA 3.1), Rich, zsh preexec hooks
